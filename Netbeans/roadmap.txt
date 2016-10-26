@@ -1,0 +1,20 @@
+----BD----
+Monter la DB en mySQL
+gestion des droits/révision users
+
+----VUES/.JSP----
+design des vues
+templating
+onglets
+prettyness
+single page avec controlleur et includes...?
+
+----CONTROLEUR----
+action afficher vue
+action afficher info db
+requêtes paramétrées
+hash password user
+
+----MODÈLE----
+designer le modèle
+créer les classes/DAO
